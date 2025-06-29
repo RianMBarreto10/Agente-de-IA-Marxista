@@ -1,0 +1,15 @@
+streamlit==1.35.0
+google-generativeai==0.5.4
+langchain==0.2.1
+langchain-google-genai==1.0.6
+langchain_community==0.2.1
+faiss-cpu==1.8.0
+torch
+torchvision
+sentence-transformers==3.0.1
+langchainhub==0.1.20
+protobuf==4.25.3
+numpy==1.26.4
+pillow==10.3.0
+grpcio
+grpcio-status
